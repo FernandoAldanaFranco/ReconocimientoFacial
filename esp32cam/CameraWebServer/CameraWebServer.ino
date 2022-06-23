@@ -20,8 +20,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "*********";
-const char* password = "*********";
+const char* ssid = "INFINITUMA30D";  // Aquí debes poner el nombre de tu red
+const char* password = "Hf5Cy6Jg6a";  // Aquí debes poner la contraseña de tu red
 
 void startCameraServer();
 
